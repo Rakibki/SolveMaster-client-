@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "problemId": 1,
     "title": "Reverse a String",
     "description": "Write a function that reverses a string.",
     "difficulty": "Easy",
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "id": 2,
+    "problemId": 2,
     "title": "Find the Maximum",
     "description": "Write a function that finds the maximum number in an array.",
     "difficulty": "Easy",
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "id": 3,
+    "problemId": 3,
     "title": "Palindrome Check",
     "description": "Write a function that checks if a string is a palindrome.",
     "difficulty": "Easy",
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "id": 4,
+    "problemId": 4,
     "title": "FizzBuzz",
     "description": "Write a function that prints numbers from 1 to n, but for multiples of 3, print 'Fizz', for multiples of 5, print 'Buzz', and for multiples of both 3 and 5, print 'FizzBuzz'.",
     "difficulty": "Easy",
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "id": 5,
+    "problemId": 5,
     "title": "Factorial",
     "description": "Write a function that calculates the factorial of a number.",
     "difficulty": "Easy",
@@ -99,7 +99,7 @@
   },
 
   {
-    "id": 6,
+    "problemId": 6,
     "title": "Sum of Array Elements",
     "description": "Write a function that calculates the sum of all elements in an array.",
     "difficulty": "Easy",
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "id": 7,
+    "problemId": 7,
     "title": "Check Prime Number",
     "description": "Write a function that checks if a given number is prime.",
     "difficulty": "Easy",
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "id": 8,
+    "problemId": 8,
     "title": "Count Vowels",
     "description": "Write a function that counts the number of vowels in a string.",
     "difficulty": "Easy",
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "id": 9,
+    "problemId": 9,
     "title": "Remove Duplicates",
     "description": "Write a function that removes duplicates from an array.",
     "difficulty": "Easy",
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "id": 10,
+    "problemId": 10,
     "title": "Find Largest Number",
     "description": "Write a function that finds the largest number in an array of numbers.",
     "difficulty": "Easy",
@@ -160,7 +160,7 @@
   },
 
   {
-    "id": 11,
+    "problemId": 11,
     "title": "Check for Anagrams",
     "description": "Write a function that checks if two strings are anagrams of each other.",
     "difficulty": "Easy",
@@ -172,7 +172,7 @@
     ]
   },
   {
-    "id": 12,
+    "problemId": 12,
     "title": "Calculate Power",
     "description": "Write a function that calculates the power of a number.",
     "difficulty": "Easy",
@@ -184,7 +184,7 @@
     ]
   },
   {
-    "id": 13,
+    "problemId": 13,
     "title": "Find Minimum",
     "description": "Write a function that finds the minimum number in an array.",
     "difficulty": "Easy",
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "id": 14,
+    "problemId": 14,
     "title": "Title Case a Sentence",
     "description": "Write a function that converts the first letter of each word in a sentence to uppercase.",
     "difficulty": "Easy",
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "id": 15,
+    "problemId": 15,
     "title": "Find Average",
     "description": "Write a function that calculates the average of numbers in an array.",
     "difficulty": "Easy",
@@ -221,7 +221,7 @@
   },
 
   {
-    "id": 16,
+    "problemId": 16,
     "title": "Find Median",
     "description": "Write a function that finds the median of an array of numbers.",
     "difficulty": "Medium",
@@ -233,7 +233,7 @@
     ]
   },
   {
-    "id": 17,
+    "problemId": 17,
     "title": "Merge Arrays",
     "description": "Write a function that merges two sorted arrays into one sorted array.",
     "difficulty": "Medium",
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "id": 18,
+    "problemId": 18,
     "title": "Find Missing Number",
     "description": "Write a function that finds the missing number in an array containing all integers from 1 to n except for one.",
     "difficulty": "Medium",
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "id": 19,
+    "problemId": 19,
     "title": "Check Balanced Parentheses",
     "description": "Write a function that checks if a given string of parentheses is balanced.",
     "difficulty": "Medium",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "id": 21,
+    "problemId": 21,
     "title": "Find Longest Substring Without Repeating Characters",
     "description": "Write a function that finds the length of the longest substring without repeating characters.",
     "difficulty": "Medium",
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "id": 24,
+    "problemId": 24,
     "title": "Valid Parentheses",
     "description": "Write a function that determines if the input string is valid by using parentheses.",
     "difficulty": "Medium",
@@ -309,7 +309,7 @@
     ]
   },
   {
-    "id": 25,
+    "problemId": 25,
     "title": "Merge Intervals",
     "description": "Write a function that merges overlapping intervals.",
     "difficulty": "Medium",
@@ -348,7 +348,7 @@
     ]
   },
   {
-    "id": 51,
+    "problemId": 51,
     "title": "Longest Increasing Subsequence",
     "description": "Given an integer array nums, return the length of the longest strictly increasing subsequence.",
     "difficulty": "Hard",
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "id": 52,
+    "problemId": 52,
     "title": "Search in Rotated Sorted Array",
     "description": "There is an integer array nums sorted in ascending order (with distinct values). Prior to being passed to your function, nums is rotated at an unknown pivot index k (0 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). You are given the target value to search for. If found in the array return its index, otherwise return -1.",
     "difficulty": "Hard",
@@ -372,7 +372,7 @@
     ]
   },
   {
-    "id": 53,
+    "problemId": 53,
     "title": "Minimum Window Substring",
     "description": "Given two strings s and t of lengths m and n respectively, return the minimum window substring of s such that every character in t (including duplicates) is included in the window. If there is no such substring, return the empty string ''.",
     "difficulty": "Hard",
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "id": 54,
+    "problemId": 54,
     "title": "Regular Expression Matching",
     "description": "Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'. '.' Matches any single character. '*' Matches zero or more of the preceding element.",
     "difficulty": "Hard",
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "id": 55,
+    "problemId": 55,
     "title": "Merge Intervals",
     "description": "Given a collection of intervals, merge all overlapping intervals.",
     "difficulty": "Hard",
@@ -435,7 +435,7 @@
     ]
   },
   {
-    "id": 56,
+    "problemId": 56,
     "title": "Jump Game II",
     "description": "Given an array of non-negative integers nums, you are initially positioned at the first index of the array. Each element in the array represents your maximum jump length at that position. Your goal is to reach the last index in the minimum number of jumps.",
     "difficulty": "Hard",
@@ -447,7 +447,7 @@
     ]
   },
   {
-    "id": 57,
+    "problemId": 57,
     "title": "Word Search II",
     "description": "Given an m x n board of characters and a list of strings words, return all words on the board.",
     "difficulty": "Hard",
@@ -479,7 +479,7 @@
   },
 
   {
-    "id": 58,
+    "problemId": 58,
     "title": "Binary Tree Maximum Path Sum",
     "description": "Given a non-empty binary tree, find the maximum path sum. For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain at least one node and does not need to go through the root.",
     "difficulty": "Hard",
@@ -525,7 +525,7 @@
     ]
   },
   {
-    "id": 59,
+    "problemId": 59,
     "title": "Distinct Subsequences",
     "description": "Given two strings s and t, return the number of distinct subsequences of s which equals t.",
     "difficulty": "Hard",
@@ -537,7 +537,7 @@
     ]
   },
   {
-    "id": 60,
+    "problemId": 60,
     "title": "Maximal Rectangle",
     "description": "Given a rows x cols binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.",
     "difficulty": "Hard",
@@ -562,7 +562,7 @@
   },
 
   {
-    "id": 61,
+    "problemId": 61,
     "title": "Palindrome Partitioning II",
     "description": "Given a string s, partition s such that every substring of the partition is a palindrome. Return the minimum cuts needed for a palindrome partitioning of s.",
     "difficulty": "Hard",
@@ -574,7 +574,7 @@
     ]
   },
   {
-    "id": 62,
+    "problemId": 62,
     "title": "Count of Smaller Numbers After Self",
     "description": "You are given an integer array nums and you have to return a new counts array. The counts array has the property where counts[i] is the number of smaller elements to the right of nums[i].",
     "difficulty": "Hard",
@@ -586,7 +586,7 @@
     ]
   },
   {
-    "id": 63,
+    "problemId": 63,
     "title": "Minimum Window Subsequence",
     "description": "Given strings S and T, find the minimum (contiguous) substring W of S, so that T is a subsequence of W.",
     "difficulty": "Hard",
@@ -598,7 +598,7 @@
     ]
   },
   {
-    "id": 64,
+    "problemId": 64,
     "title": "Insert Interval",
     "description": "Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).",
     "difficulty": "Hard",
@@ -647,9 +647,9 @@
     ]
   },
   {
-    "id": 65,
+    "problemId": 65,
     "title": "Text Justification",
-    "description": "Given an array of words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.",
+    "description": "Given an array of words and a wproblemIdth maxWproblemIdth, format the text such that each line has exactly maxWproblemIdth characters and is fully (left and right) justified.",
     "difficulty": "Hard",
     "exampleInput": [
       ["This", "is", "an", "example", "of", "text", "justification."],
@@ -675,7 +675,7 @@
     ]
   },
   {
-    "id": 66,
+    "problemId": 66,
     "title": "Longest Consecutive Sequence",
     "description": "Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.",
     "difficulty": "Hard",
@@ -687,7 +687,7 @@
     ]
   },
   {
-    "id": 67,
+    "problemId": 67,
     "title": "Expression Add Operators",
     "description": "Given a string num that contains only digits and an integer target, return all possibilities to add the binary operators '+', '-', or '*' between the digits of num so that the resultant expression evaluates to the target value.",
     "difficulty": "Hard",
@@ -699,9 +699,9 @@
     ]
   },
   {
-    "id": 68,
+    "problemId": 68,
     "title": "Word Break II",
-    "description": "Given a string s and a dictionary of strings wordDict, add spaces in s to construct a sentence where each word is a valid dictionary word. Return all such possible sentences in any order.",
+    "description": "Given a string s and a dictionary of strings wordDict, add spaces in s to construct a sentence where each word is a valproblemId dictionary word. Return all such possible sentences in any order.",
     "difficulty": "Hard",
     "exampleInput": ["catsanddog", ["cat", "cats", "and", "sand", "dog"]],
     "exampleOutput": ["cats and dog", "cat sand dog"],
@@ -724,9 +724,9 @@
     ]
   },
   {
-    "id": 69,
-    "title": "Sliding Window Maximum",
-    "description": "You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position.",
+    "problemId": 69,
+    "title": "SlproblemIding Window Maximum",
+    "description": "You are given an array of integers nums, there is a slproblemIding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the slproblemIding window moves right by one position.",
     "difficulty": "Hard",
     "exampleInput": [[1, 3, -1, -3, 5, 3, 6, 7], 3],
     "exampleOutput": [3, 3, 5, 5, 6, 7],
@@ -739,9 +739,9 @@
     ]
   },
   {
-    "id": 70,
-    "title": "Minimum Remove to Make Valid Parentheses",
-    "description": "Given a string s of '(' , ')' and lowercase English characters. Your task is to remove the minimum number of parentheses ( '(' or ')', in any positions ) so that the resulting parentheses string is valid and return any valid string.",
+    "problemId": 70,
+    "title": "Minimum Remove to Make ValproblemId Parentheses",
+    "description": "Given a string s of '(' , ')' and lowercase English characters. Your task is to remove the minimum number of parentheses ( '(' or ')', in any positions ) so that the resulting parentheses string is valproblemId and return any valproblemId string.",
     "difficulty": "Hard",
     "exampleInput": ["lee(t(c)o)de)", "a)b(c)d"],
     "exampleOutput": ["lee(t(c)o)de", "ab(c)d"],
@@ -754,7 +754,7 @@
     ]
   },
   {
-    "id": 71,
+    "problemId": 71,
     "title": "Count of Range Sum",
     "description": "Given an integer array nums and two integers lower and upper, return the number of range sums that lie in [lower, upper] inclusive.",
     "difficulty": "Hard",
@@ -766,7 +766,7 @@
     ]
   },
   {
-    "id": 72,
+    "problemId": 72,
     "title": "Count Binary Substrings",
     "description": "Give a binary string s, return the number of non-empty substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively.",
     "difficulty": "Hard",
@@ -778,7 +778,7 @@
     ]
   },
   {
-    "id": 74,
+    "problemId": 74,
     "title": "Two Sum",
     "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
     "difficulty": "Easy",
@@ -790,7 +790,7 @@
     ]
   },
   {
-    "id": 75,
+    "problemId": 75,
     "title": "Reverse Integer",
     "description": "Given a signed 32-bit integer x, return x with its digits reversed.",
     "difficulty": "Easy",
@@ -802,7 +802,7 @@
     ]
   },
   {
-    "id": 76,
+    "problemId": 76,
     "title": "Palindrome Number",
     "description": "Given an integer x, return true if x is a palindrome integer.",
     "difficulty": "Easy",
@@ -814,7 +814,7 @@
     ]
   },
   {
-    "id": 77,
+    "problemId": 77,
     "title": "Roman to Integer",
     "description": "Given a roman numeral, convert it to an integer.",
     "difficulty": "Easy",
@@ -826,9 +826,9 @@
     ]
   },
   {
-    "id": 78,
-    "title": "Valid Parentheses",
-    "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+    "problemId": 78,
+    "title": "ValproblemId Parentheses",
+    "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valproblemId.",
     "difficulty": "Easy",
     "exampleInput": "()",
     "exampleOutput": true,
@@ -838,7 +838,7 @@
     ]
   },
   {
-    "id": 79,
+    "problemId": 79,
     "title": "Merge Two Sorted Lists",
     "description": "Merge two sorted linked lists and return it as a sorted list.",
     "difficulty": "Easy",
@@ -895,7 +895,7 @@
     ]
   },
   {
-    "id": 80,
+    "problemId": 80,
     "title": "Remove Duplicates from Sorted Array",
     "description": "Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. Return the new length.",
     "difficulty": "Easy",

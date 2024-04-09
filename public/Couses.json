@@ -1,5 +1,6 @@
 [
   {
+    "couseId": "234141310",
     "title": "JavaScript for Beginners",
     "platform": "Udemy",
     "url": "https://www.udemy.com/javascript-for-beginners",
@@ -15,9 +16,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-10-15",
-    "course-image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=740"
   },
   {
+    "couseId": "65354353535",
     "title": "React.js Fundamentals",
     "platform": "Coursera",
     "url": "https://www.coursera.org/react-js-fundamentals",
@@ -33,9 +35,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-09-20",
-    "course-image": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?w=826"
+    "course_image": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?w=826"
   },
   {
+    "couseId": "57856475254",
     "title": "Mastering MongoDB",
     "platform": "Pluralsight",
     "url": "https://www.pluralsight.com/mastering-mongodb",
@@ -51,9 +54,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-11-05",
-    "course-image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?w=740"
   },
   {
+    "couseId": "87544278575",
     "title": "CSS Essentials",
     "platform": "edX",
     "url": "https://www.edx.org/css-essentials",
@@ -69,9 +73,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-08-30",
-    "course-image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740"
   },
   {
+    "couseId": "57857452428765856",
     "title": "JavaScript for Beginners",
     "platform": "Udemy",
     "url": "https://www.udemy.com/javascript-for-beginners",
@@ -87,9 +92,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-10-15",
-    "course-image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740"
   },
   {
+    "couseId": "58752422000567",
     "title": "React.js Fundamentals",
     "platform": "Coursera",
     "url": "https://www.coursera.org/react-js-fundamentals",
@@ -105,9 +111,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-09-20",
-    "course-image": "https://img.freepik.com/free-photo/programming-background-with-html-text_23-2150040420.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-html-text_23-2150040420.jpg?w=740"
   },
   {
+    "couseId": "005554575557857",
     "title": "Mastering MongoDB",
     "platform": "Pluralsight",
     "url": "https://www.pluralsight.com/mastering-mongodb",
@@ -123,9 +130,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-11-05",
-    "course-image": "https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?w=740"
   },
   {
+    "couseId": "0578575785755755",
     "title": "CSS Essentials",
     "platform": "edX",
     "url": "https://www.edx.org/css-essentials",
@@ -141,9 +149,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-08-30",
-    "course-image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061963.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061963.jpg?w=740"
   },
   {
+    "couseId": "0575745475200505075078",
     "title": "Node.js in Practice",
     "platform": "LinkedIn Learning",
     "url": "https://www.linkedin.com/learning/node-js-in-practice",
@@ -159,9 +168,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-10-25",
-    "course-image": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?w=740"
   },
   {
+    "couseId": "0574547057450450",
     "title": "Advanced CSS Layouts",
     "platform": "Frontend Masters",
     "url": "https://frontendmasters.com/advanced-css-layouts",
@@ -177,9 +187,10 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-09-15",
-    "course-image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062006.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062006.jpg?w=740"
   },
   {
+    "couseId": "878787878078056",
     "title": "MongoDB for Beginners",
     "platform": "Codecademy",
     "url": "https://www.codecademy.com/mongodb-for-beginners",
@@ -195,9 +206,10 @@
     "language": "English",
     "certificate": false,
     "last_updated": "2023-11-10",
-    "course-image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010133.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010133.jpg?w=740"
   },
   {
+    "couseId": "08865565658600",
     "title": "React.js Fundamentals",
     "platform": "Coursera",
     "url": "https://www.coursera.org/react-js-fundamentals",
@@ -216,9 +228,10 @@
     "price": "Free with Audit, $49 with Certificate",
     "lectures": 40,
     "part_of_specialization": false,
-    "course-image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010135.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010135.jpg?w=740"
   },
   {
+    "couseId": "07578555750578",
     "title": "Mastering MongoDB",
     "platform": "Pluralsight",
     "url": "https://www.pluralsight.com/mastering-mongodb",
@@ -237,9 +250,10 @@
     "price": "$29/month (Pluralsight subscription)",
     "lectures": 30,
     "part_of_specialization": false,
-    "course-image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010115.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010115.jpg?w=740"
   },
   {
+    "couseId": "234077578578578510310",
     "title": "CSS Essentials",
     "platform": "edX",
     "url": "https://www.edx.org/css-essentials",
@@ -258,9 +272,10 @@
     "price": "Free, $99 for Certificate",
     "lectures": 24,
     "part_of_specialization": false,
-    "course-image": "https://as1.ftcdn.net/v2/jpg/06/73/07/12/1000_F_673071206_THCGzH7q6AKSSU4kD3r68GXqa5ePS7GB.jpg"
+    "course_image": "https://as1.ftcdn.net/v2/jpg/06/73/07/12/1000_F_673071206_THCGzH7q6AKSSU4kD3r68GXqa5ePS7GB.jpg"
   },
   {
+    "couseId": "0075757857857857000000",
     "title": "Node.js in Practice",
     "platform": "LinkedIn Learning",
     "url": "https://www.linkedin.com/learning/node-js-in-practice",
@@ -279,9 +294,10 @@
     "price": "Included in LinkedIn Premium subscription",
     "lectures": 45,
     "part_of_specialization": false,
-    "course-image": "https://img.freepik.com/free-photo/hand-using-laptop-computer-with-virtual-screen-document-online-approve-paperless-quality-assurance-erp-management-concept_616485-61.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/hand-using-laptop-computer-with-virtual-screen-document-online-approve-paperless-quality-assurance-erp-management-concept_616485-61.jpg?w=740"
   },
   {
+    "couseId": "054757545078587687646",
     "title": "Advanced CSS Layouts",
     "platform": "Frontend Masters",
     "url": "https://frontendmasters.com/advanced-css-layouts",
@@ -300,9 +316,10 @@
     "price": "$299 (Frontend Masters subscription)",
     "lectures": 35,
     "part_of_specialization": false,
-    "course-image": "https://img.freepik.com/free-photo/close-up-eye-scanning_23-2148878100.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/close-up-eye-scanning_23-2148878100.jpg?w=740"
   },
   {
+    "couseId": "05656786786563450565",
     "title": "MongoDB for Beginners",
     "platform": "Codecademy",
     "url": "https://www.codecademy.com/mongodb-for-beginners",
@@ -320,7 +337,7 @@
     "last_updated": "2023-11-10",
     "price": "Included in Codecademy Pro subscription",
     "lectures": 20,
-    "course-image": "https://as1.ftcdn.net/v2/jpg/06/73/07/12/1000_F_673071206_THCGzH7q6AKSSU4kD3r68GXqa5ePS7GB.jpg",
+    "course_image": "https://as1.ftcdn.net/v2/jpg/06/73/07/12/1000_F_673071206_THCGzH7q6AKSSU4kD3r68GXqa5ePS7GB.jpg",
     "part_of_specialization": false
   }
 ]
