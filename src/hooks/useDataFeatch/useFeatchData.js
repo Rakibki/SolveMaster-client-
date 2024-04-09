@@ -1,4 +1,4 @@
-import { useQuery } from "tenstack-query";
+import { useQuery } from "@tanstack/react-query";
 import useAxiosLocal from "../useAxiosLocal/useAxiosLocal";
 
 const useFetchData = (url, queryKey) => {
@@ -7,9 +7,9 @@ const useFetchData = (url, queryKey) => {
   const fetchData = async () => {
     try {
       const response = await axiosLocal.get(url);
-      return response.data;
+      return response?.data;
     } catch (error) {
-      throw new Error(`Error fetching data: ${error.message}`);
+      console.log(`Error fetching data: ${error.message}`);
     }
   };
 
