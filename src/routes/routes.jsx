@@ -1,40 +1,42 @@
 import { createBrowserRouter } from "react-router-dom";
 import Home from "../pages/home/Home";
 import Blog from "../pages/blogs/Blogs";
-import Login from "../pages/login/Login";
-import Register from "../pages/register/Register";
 import Profile from "../pages/profile/Profile";
-import Problems from "../pages/problems/Problems"
+import Problems from "../pages/problems/Problems";
 import ProblemsDetails from "../pages/problemsDetails/ProblemsDetails";
+import BlogDetails from "../pages/blogDetails/BlogDetails";
+import MainLayout from "../layout/mainLayout/MainLayout";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home />,
-  },
-  {
-    path: "/blogs",
-    element: <Blog />,
-  },
-  {
-    path: "/login",
-    element: <Login />,
-  },
-  {
-    path: "/register",
-    element: <Register />,
-  },
-  {
-    path: "/problems",
-    element: <Problems />,
-  },
-  {
-    path: "/problem/:id",
-    element: <ProblemsDetails />,
-  },
-  {
-    path: "/dashboard/profile",
-    element: <Profile />,
+    element: <MainLayout />,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/blogs",
+        element: <Blog />,
+      },
+      {
+        path: "/problems",
+        element: <Problems />,
+      },
+      {
+        path: "/problem/:id",
+        element: <ProblemsDetails />,
+      },
+      {
+        path: "/blog/:id",
+        element: <BlogDetails />,
+      },
+      {
+        path: "/dashboard/profile",
+        element: <Profile />,
+      },
+    ],
   },
 ]);
 
