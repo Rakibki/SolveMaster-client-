@@ -1,7 +1,12 @@
+import Container from "../../utils/container/Container"
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section>
+      <Container>
+          
+      </Container>
+    </section>
   )
 }
 
