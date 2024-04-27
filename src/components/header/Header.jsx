@@ -1,6 +1,7 @@
 import Container from "../../utils/container/Container";
 import NavItems from "./NavItems";
 import { FaRegUser } from "react-icons/fa";
+import { MdOutlineAddShoppingCart } from "react-icons/md";
 
 const Header = () => {
   return (
@@ -43,10 +44,13 @@ const Header = () => {
               <NavItems />
             </ul>
           </div>
-          <div className="navbar-end">
-            <div>
-              <div>
+          <div className="navbar-end flex gap-3">
+            <div className="flex gap-1">
+              <div className="p-3 border-slate-700 border-2 rounded-md">
                 <FaRegUser />
+              </div>
+              <div className="p-3 border-slate-700 border-2 rounded-md">
+                <MdOutlineAddShoppingCart />
               </div>
             </div>
 

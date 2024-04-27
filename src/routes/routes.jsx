@@ -6,6 +6,7 @@ import Problems from "../pages/problems/Problems";
 import ProblemsDetails from "../pages/problemsDetails/ProblemsDetails";
 import BlogDetails from "../pages/blogDetails/BlogDetails";
 import MainLayout from "../layout/mainLayout/MainLayout";
+import Authentication from "../pages/authentication/Authentication";
 
 const router = createBrowserRouter([
   {
@@ -15,6 +16,10 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />,
+      },
+      {
+        path: "/authentication",
+        element: <Authentication />,
       },
       {
         path: "/blogs",
