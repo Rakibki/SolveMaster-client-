@@ -10,14 +10,17 @@ import {
   updateProfile,
 } from "firebase/auth";
 import auth from "../../firebase/firebase.config";
+import Loader from "../../components/loader/Loader";
+import useAxiosSecure from "../../hooks/useAxiosSecure/useAxiosSecure";
 
 export const authContext = createContext(null);
 
 const AuthProvaider = ({ children }) => {
   const [user, setUser] = useState(null);
   const [loadding, setLoadding] = useState(true);
+  const axiosSecure = useAxiosSecure();
 
-  console.log(user);
+  console.log({ user });
 
   const createUser = (email, password) => {
     setLoadding(true);
@@ -57,6 +60,23 @@ const AuthProvaider = ({ children }) => {
     const disConnect = onAuthStateChanged(auth, (currentUser) => {
       setUser(currentUser);
       setLoadding(false);
+
+      //error code
+      // const userData = {
+      //   name: user?.displayName || currentUser?.displayName,
+      //   email: user?.email || currentUser.email,
+      //   role: "sudent",
+      //   image: user?.photoURL || currentUser.photoURL,
+      // };
+
+      // if (user && user?.displayName && user?.photoURL) {
+      //   const userDataStr = JSON.stringify(userData);
+
+      //   axiosSecure
+      //     .post(`/api/v1/users/${userDataStr}`)
+      //     .then((res) => console.log(res))
+      //     .catch((e) => console.log(e));
+      // }
 
       return () => {
         disConnect();
