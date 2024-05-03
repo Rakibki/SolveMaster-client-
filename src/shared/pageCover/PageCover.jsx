@@ -5,7 +5,7 @@ import CoverBgShapeThree from "../../assets/images/herobanner__1.png";
 
 const PageCover = ({ title }) => {
   return (
-    <section className="bg-[rgb(245,245,254)]">
+    <section className="bg-[rgb(245,245,254)] w-full">
       <Container>
         <div className="h-[350px] flex justify-start items-center relative">
           <div>
