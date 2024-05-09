@@ -12,7 +12,7 @@ import Comments from "./Comments";
 
 const BlogDetails = () => {
   const { id } = useParams();
-  const { data, isPending } = useFetchData(`/api/v1/blog/${id}`);
+  const { data, isPending } = useFetchData(`/api/v1/blog/${id}`, "blog");
 
   if (isPending) {
     return <Loader />;

@@ -21,7 +21,7 @@ const Blog = ({ blog }) => {
               <p>20</p>
             </div>
           </div>
-          <p>{blog?.Desc1.slice(0, 70)}...</p>
+          <p>{blog?.Desc1?.slice(0, 70)}...</p>
           <div className="card-actions my-3 justify-end">
             <button className="btn btn-sm btn-primary">READ MORE</button>
           </div>
