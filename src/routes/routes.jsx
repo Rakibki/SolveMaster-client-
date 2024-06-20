@@ -9,6 +9,7 @@ import MainLayout from "../layout/mainLayout/MainLayout";
 import Authentication from "../pages/authentication/Authentication";
 import Course from "../pages/course/Course";
 import CourseDetails from "../pages/courseDetails/CourseDetails";
+import PrivateRoute from "./PrivateRoute";
 
 const router = createBrowserRouter([
   {
@@ -22,6 +23,14 @@ const router = createBrowserRouter([
       {
         path: "/courses",
         element: <Course />,
+      },
+      {
+        path: "/dashboard/profile",
+        element: (
+          <PrivateRoute>
+            <Profile />
+          </PrivateRoute>
+        ),
       },
       {
         path: "/authentication",

@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import Container from "../../utils/container/Container";
 import NavItems from "./NavItems";
 import { FaRegUser } from "react-icons/fa";
@@ -48,7 +48,9 @@ const Header = () => {
           <div className="navbar-end flex gap-3">
             <div className="flex gap-1">
               <div className="p-3 border-slate-700 border-2 rounded-md">
-                <FaRegUser />
+                <NavLink to={"/dashboard/profile"}>
+                  <FaRegUser />
+                </NavLink>
               </div>
               <div className="p-3 border-slate-700 border-2 rounded-md">
                 <MdOutlineAddShoppingCart />

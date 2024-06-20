@@ -15,7 +15,7 @@ const PrivateRoute = ({ children }) => {
     return children;
   }
 
-  return navigate("/login");
+  return navigate("/authentication");
 };
 
 export default PrivateRoute;
