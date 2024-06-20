@@ -7,6 +7,8 @@ import ProblemsDetails from "../pages/problemsDetails/ProblemsDetails";
 import BlogDetails from "../pages/blogDetails/BlogDetails";
 import MainLayout from "../layout/mainLayout/MainLayout";
 import Authentication from "../pages/authentication/Authentication";
+import Course from "../pages/course/Course";
+import CourseDetails from "../pages/courseDetails/CourseDetails";
 
 const router = createBrowserRouter([
   {
@@ -16,6 +18,10 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />,
+      },
+      {
+        path: "/courses",
+        element: <Course />,
       },
       {
         path: "/authentication",
@@ -28,6 +34,10 @@ const router = createBrowserRouter([
       {
         path: "/problems",
         element: <Problems />,
+      },
+      {
+        path: "/course/:courseId",
+        element: <CourseDetails />,
       },
       {
         path: "/problem/:id",

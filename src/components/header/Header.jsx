@@ -1,3 +1,4 @@
+import { NavLink } from "react-router-dom";
 import Container from "../../utils/container/Container";
 import NavItems from "./NavItems";
 import { FaRegUser } from "react-icons/fa";
@@ -54,7 +55,9 @@ const Header = () => {
               </div>
             </div>
 
-            <a className="btn">Get Start</a>
+            <NavLink to={"/authentication"}>
+              <a className="btn">Login</a>
+            </NavLink>
           </div>
         </div>
       </Container>
