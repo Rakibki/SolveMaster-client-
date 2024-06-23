@@ -24,7 +24,7 @@ import Announcments from "../pages/dashboard/teacher dashboard/Announcments/Anno
 import MyCourse from "../pages/dashboard/teacher dashboard/MyCourse/MyCourse";
 import OrderHistory from "../pages/dashboard/admin dashboard/Order History/OrderHistory";
 import AllCourse from "../pages/dashboard/admin dashboard/All Course/AllCourse";
-import CreateCourse from "../pages/dashboard/admin dashboard/Create Course/CreateCourse";
+import CreateCourse from "../pages/dashboard/teacher dashboard/Create Course/CreateCourse";
 
 const router = createBrowserRouter([
   {

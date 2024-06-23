@@ -9,8 +9,10 @@ const DashboardLeft = () => {
         text={"Dashboard"}
       />
       <DashboardNavItem location={"/dashboard/Message"} text={"Message"} />
+      <DashboardNavItem location={"/dashboard/MyCourse"} text={"My Course"} />
       <DashboardNavItem location={"/dashboard/Wishlist"} text={"Wishlist"} />
       <DashboardNavItem location={"/dashboard/Reviews"} text={"Reviews"} />
+      <DashboardNavItem location={"/dashboard/AllCourse"} text={"All Course"} />
       <DashboardNavItem
         location={"/dashboard/Assignments"}
         text={"Assignments"}
