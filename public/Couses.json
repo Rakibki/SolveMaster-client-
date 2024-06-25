@@ -3,7 +3,7 @@
     "couseId": "234141310",
     "title": "JavaScript for Beginners",
     "platform": "Udemy",
-    "url": "https://www.udemy.com/javascript-for-beginners",
+    "videoUrl": "https://www.udemy.com/javascript-for-beginners",
     "topics": ["JavaScript", "Programming Basics"],
     "level": "Beginner",
     "duration": "8 hours",
@@ -16,13 +16,17 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-10-15",
-    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
+
   {
     "couseId": "65354353535",
     "title": "React.js Fundamentals",
     "platform": "Coursera",
-    "url": "https://www.coursera.org/react-js-fundamentals",
+    "videoUrl": "https://www.coursera.org/react-js-fundamentals",
     "topics": ["React.js", "Frontend Development"],
     "level": "Intermediate",
     "duration": "12 hours",
@@ -35,13 +39,16 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-09-20",
-    "course_image": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?w=826"
+    "course_image": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?w=826",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "57856475254",
     "title": "Mastering MongoDB",
     "platform": "Pluralsight",
-    "url": "https://www.pluralsight.com/mastering-mongodb",
+    "videoUrl": "https://www.pluralsight.com/mastering-mongodb",
     "topics": ["MongoDB", "Database Management"],
     "level": "Advanced",
     "duration": "10 hours",
@@ -54,13 +61,16 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-11-05",
-    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "87544278575",
     "title": "CSS Essentials",
     "platform": "edX",
-    "url": "https://www.edx.org/css-essentials",
+    "videoUrl": "https://www.edx.org/css-essentials",
     "topics": ["CSS", "Styling"],
     "level": "Beginner",
     "duration": "6 hours",
@@ -73,13 +83,17 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-08-30",
-    "course_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
+
   {
     "couseId": "57857452428765856",
     "title": "JavaScript for Beginners",
     "platform": "Udemy",
-    "url": "https://www.udemy.com/javascript-for-beginners",
+    "videoUrl": "https://www.udemy.com/javascript-for-beginners",
     "topics": ["JavaScript", "Programming Basics"],
     "level": "Beginner",
     "duration": "8 hours",
@@ -92,13 +106,16 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-10-15",
-    "course_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.,com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "58752422000567",
     "title": "React.js Fundamentals",
     "platform": "Coursera",
-    "url": "https://www.coursera.org/react-js-fundamentals",
+    "videoUrl": "https://www.coursera.org/react-js-fundamentals",
     "topics": ["React.js", "Frontend Development"],
     "level": "Intermediate",
     "duration": "12 hours",
@@ -111,13 +128,16 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-09-20",
-    "course_image": "https://img.freepik.com/free-photo/programming-background-with-html-text_23-2150040420.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-html-text_23-2150040420.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "005554575557857",
     "title": "Mastering MongoDB",
     "platform": "Pluralsight",
-    "url": "https://www.pluralsight.com/mastering-mongodb",
+    "videoUrl": "https://www.pluralsight.com/mastering-mongodb",
     "topics": ["MongoDB", "Database Management"],
     "level": "Advanced",
     "duration": "10 hours",
@@ -130,13 +150,17 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-11-05",
-    "course_image": "https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
+
   {
     "couseId": "0578575785755755",
     "title": "CSS Essentials",
     "platform": "edX",
-    "url": "https://www.edx.org/css-essentials",
+    "videoUrl": "https://www.edx.org/css-essentials",
     "topics": ["CSS", "Styling"],
     "level": "Beginner",
     "duration": "6 hours",
@@ -149,13 +173,16 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-08-30",
-    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061963.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061963.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "0575745475200505075078",
     "title": "Node.js in Practice",
     "platform": "LinkedIn Learning",
-    "url": "https://www.linkedin.com/learning/node-js-in-practice",
+    "videoUrl": "https://www.linkedin.com/learning/node-js-in-practice",
     "topics": ["Node.js", "Backend Development"],
     "level": "Intermediate",
     "duration": "9 hours",
@@ -168,13 +195,17 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-10-25",
-    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
+
   {
     "couseId": "0574547057450450",
     "title": "Advanced CSS Layouts",
     "platform": "Frontend Masters",
-    "url": "https://frontendmasters.com/advanced-css-layouts",
+    "videoUrl": "https://frontendmasters.com/advanced-css-layouts",
     "topics": ["CSS", "Layouts"],
     "level": "Advanced",
     "duration": "7 hours",
@@ -187,13 +218,16 @@
     "language": "English",
     "certificate": true,
     "last_updated": "2023-09-15",
-    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062006.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062006.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "878787878078056",
     "title": "MongoDB for Beginners",
     "platform": "Codecademy",
-    "url": "https://www.codecademy.com/mongodb-for-beginners",
+    "videoUrl": "https://www.codecademy.com/mongodb-for-beginners",
     "topics": ["MongoDB", "Database Management"],
     "level": "Beginner",
     "duration": "5 hours",
@@ -206,13 +240,16 @@
     "language": "English",
     "certificate": false,
     "last_updated": "2023-11-10",
-    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010133.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010133.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "08865565658600",
     "title": "React.js Fundamentals",
     "platform": "Coursera",
-    "url": "https://www.coursera.org/react-js-fundamentals",
+    "videoUrl": "https://www.coursera.org/react-js-fundamentals",
     "topics": ["React.js", "Frontend Development"],
     "level": "Intermediate",
     "duration": "12 hours",
@@ -228,13 +265,16 @@
     "price": "Free with Audit, $49 with Certificate",
     "lectures": 40,
     "part_of_specialization": false,
-    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010135.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010135.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "07578555750578",
     "title": "Mastering MongoDB",
     "platform": "Pluralsight",
-    "url": "https://www.pluralsight.com/mastering-mongodb",
+    "videoUrl": "https://www.pluralsight.com/mastering-mongodb",
     "topics": ["MongoDB", "Database Management"],
     "level": "Advanced",
     "duration": "10 hours",
@@ -250,13 +290,16 @@
     "price": "$29/month (Pluralsight subscription)",
     "lectures": 30,
     "part_of_specialization": false,
-    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010115.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010115.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "234077578578578510310",
     "title": "CSS Essentials",
     "platform": "edX",
-    "url": "https://www.edx.org/css-essentials",
+    "videoUrl": "https://www.edx.org/css-essentials",
     "topics": ["CSS", "Styling"],
     "level": "Beginner",
     "duration": "6 hours",
@@ -272,13 +315,17 @@
     "price": "Free, $99 for Certificate",
     "lectures": 24,
     "part_of_specialization": false,
-    "course_image": "https://as1.ftcdn.net/v2/jpg/06/73/07/12/1000_F_673071206_THCGzH7q6AKSSU4kD3r68GXqa5ePS7GB.jpg"
+    "course_image": "https://as1.ftcdn.net/v2/jpg/06/73/07/12/1000_F_673071206_THCGzH7q6AKSSU4kD3r68GXqa5ePS7GB.jpg",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
+
   {
     "couseId": "0075757857857857000000",
     "title": "Node.js in Practice",
     "platform": "LinkedIn Learning",
-    "url": "https://www.linkedin.com/learning/node-js-in-practice",
+    "videoUrl": "https://www.linkedin.com/learning/node-js-in-practice",
     "topics": ["Node.js", "Backend Development"],
     "level": "Intermediate",
     "duration": "9 hours",
@@ -294,13 +341,16 @@
     "price": "Included in LinkedIn Premium subscription",
     "lectures": 45,
     "part_of_specialization": false,
-    "course_image": "https://img.freepik.com/free-photo/hand-using-laptop-computer-with-virtual-screen-document-online-approve-paperless-quality-assurance-erp-management-concept_616485-61.jpg?w=740"
+    "course_image": "https://img.freepik.com/free-photo/hand-using-laptop-computer-with-virtual-screen-document-online-approve-paperless-quality-assurance-erp-management-concept_616485-61.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   },
   {
     "couseId": "054757545078587687646",
     "title": "Advanced CSS Layouts",
     "platform": "Frontend Masters",
-    "url": "https://frontendmasters.com/advanced-css-layouts",
+    "videoUrl": "https://frontendmasters.com/advanced-css-layouts",
     "topics": ["CSS", "Layouts"],
     "level": "Advanced",
     "duration": "7 hours",
@@ -316,28 +366,9 @@
     "price": "$299 (Frontend Masters subscription)",
     "lectures": 35,
     "part_of_specialization": false,
-    "course_image": "https://img.freepik.com/free-photo/close-up-eye-scanning_23-2148878100.jpg?w=740"
-  },
-  {
-    "couseId": "05656786786563450565",
-    "title": "MongoDB for Beginners",
-    "platform": "Codecademy",
-    "url": "https://www.codecademy.com/mongodb-for-beginners",
-    "topics": ["MongoDB", "Database Management"],
-    "level": "Beginner",
-    "duration": "5 hours",
-    "instructor": "Codecademy Team",
-    "rating": 4.3,
-    "reviews": 1100,
-    "description": "Get started with MongoDB and learn how to store, retrieve, and manipulate data using this popular NoSQL database. Perfect for beginners looking to dive into database management.",
-    "prerequisites": "No prior experience required.",
-    "format": "Interactive coding exercises.",
-    "language": "English",
-    "certificate": false,
-    "last_updated": "2023-11-10",
-    "price": "Included in Codecademy Pro subscription",
-    "lectures": 20,
-    "course_image": "https://as1.ftcdn.net/v2/jpg/06/73/07/12/1000_F_673071206_THCGzH7q6AKSSU4kD3r68GXqa5ePS7GB.jpg",
-    "part_of_specialization": false
+    "course_image": "https://img.freepik.com/free-photo/close-up-eye-scanning_23-2148878100.jpg?w=740",
+    "regularPrice": "250",
+    "discountedPrice": "199",
+    "CourseType": "Paid"
   }
 ]

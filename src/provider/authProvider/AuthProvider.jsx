@@ -61,22 +61,14 @@ const AuthProvaider = ({ children }) => {
       setUser(currentUser);
       setLoadding(false);
 
-      //error code
-      // const userData = {
-      //   name: user?.displayName || currentUser?.displayName,
-      //   email: user?.email || currentUser.email,
-      //   role: "sudent",
-      //   image: user?.photoURL || currentUser.photoURL,
-      // };
+      const userData = {
+        name: user?.displayName || currentUser?.displayName,
+        email: user?.email || currentUser.email,
+        role: "sudent",
+        image: user?.photoURL || currentUser.photoURL,
+      };
 
-      // if (user && user?.displayName && user?.photoURL) {
-      //   const userDataStr = JSON.stringify(userData);
-
-      //   axiosSecure
-      //     .post(`/api/v1/users/${userDataStr}`)
-      //     .then((res) => console.log(res))
-      //     .catch((e) => console.log(e));
-      // }
+      axiosSecure.post(`/api/v1/users`, userData);
 
       return () => {
         disConnect();

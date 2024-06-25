@@ -10,6 +10,8 @@ const AllCourse = () => {
     return <Loader />;
   }
 
+  console.log(data);
+
   return (
     <main>
       <div>
