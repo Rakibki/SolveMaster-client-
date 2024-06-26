@@ -35,7 +35,7 @@ const CreateCourse = () => {
     course_image: "",
     regularPrice: "",
     CourseType: "",
-    couseStatus: "Pending",
+    courseStatus: "pending",
     discountedPrice: "",
   });
 
@@ -72,7 +72,7 @@ const CreateCourse = () => {
     if (!user) {
       return alert("Login first");
     }
-    await axiosSecure.post("/api/v1/course",  couseData);
+    await axiosSecure.post("/api/v1/course", couseData);
     navigate("/dashboard/MyCourse");
   };
 

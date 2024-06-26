@@ -19,7 +19,10 @@
     "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "pending"
   },
 
   {
@@ -42,7 +45,10 @@
     "course_image": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?w=826",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "pending"
   },
   {
     "couseId": "57856475254",
@@ -64,7 +70,10 @@
     "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "pending"
   },
   {
     "couseId": "87544278575",
@@ -86,7 +95,10 @@
     "course_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "pending"
   },
 
   {
@@ -109,7 +121,10 @@
     "course_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.,com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740https://img.freepik.com/free-photo/programming-background-collage_23-2149901776.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "pending"
   },
   {
     "couseId": "58752422000567",
@@ -131,7 +146,10 @@
     "course_image": "https://img.freepik.com/free-photo/programming-background-with-html-text_23-2150040420.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "pending"
   },
   {
     "couseId": "005554575557857",
@@ -153,7 +171,10 @@
     "course_image": "https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "draft"
   },
 
   {
@@ -176,7 +197,10 @@
     "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061963.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   },
   {
     "couseId": "0575745475200505075078",
@@ -198,7 +222,10 @@
     "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   },
 
   {
@@ -221,7 +248,10 @@
     "course_image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062006.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   },
   {
     "couseId": "878787878078056",
@@ -243,7 +273,10 @@
     "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010133.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   },
   {
     "couseId": "08865565658600",
@@ -268,7 +301,10 @@
     "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010135.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   },
   {
     "couseId": "07578555750578",
@@ -293,7 +329,10 @@
     "course_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010115.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   },
   {
     "couseId": "234077578578578510310",
@@ -318,7 +357,10 @@
     "course_image": "https://as1.ftcdn.net/v2/jpg/06/73/07/12/1000_F_673071206_THCGzH7q6AKSSU4kD3r68GXqa5ePS7GB.jpg",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   },
 
   {
@@ -344,7 +386,10 @@
     "course_image": "https://img.freepik.com/free-photo/hand-using-laptop-computer-with-virtual-screen-document-online-approve-paperless-quality-assurance-erp-management-concept_616485-61.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   },
   {
     "couseId": "054757545078587687646",
@@ -369,6 +414,9 @@
     "course_image": "https://img.freepik.com/free-photo/close-up-eye-scanning_23-2148878100.jpg?w=740",
     "regularPrice": "250",
     "discountedPrice": "199",
-    "CourseType": "Paid"
+    "CourseType": "Paid",
+    "instructorName": "rakib bepari",
+    "instructorEmail": "rbepari404@gmail.com",
+    "courseStatus": "publish"
   }
 ]

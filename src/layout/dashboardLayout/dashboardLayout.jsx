@@ -4,9 +4,12 @@ import { authContext } from "../../provider/authProvider/AuthProvider";
 import { Outlet } from "react-router-dom";
 import Header from "../../components/header/Header";
 import DashboardLeft from "./dashboard_left/DashboardLeft";
+import useGetRole from "../../hooks/useGetRole/useGetRole";
 
 const DashboardLayout = () => {
   const { user } = useContext(authContext);
+
+  const userRole = useGetRole();
 
   return (
     <main className="">
@@ -25,6 +28,9 @@ const DashboardLayout = () => {
                 </div>
                 <div>
                   <h2 className="text-2xl text-white">{user?.displayName}</h2>
+                  <h4 className="text-lg px-6 text-white my-3 bg-[#17093E] py-[2px]">
+                    {userRole}
+                  </h4>
                 </div>
               </div>
             </div>
