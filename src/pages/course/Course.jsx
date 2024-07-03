@@ -6,6 +6,7 @@ import Loader from "../../components/loader/Loader";
 import SingleCourse from "./SingleCourse";
 import { BsFillGrid3X3GapFill } from "react-icons/bs";
 import { FaList } from "react-icons/fa";
+import CourseFilter from "./CourseFilter";
 
 const Course = () => {
   const [dataShape, setDataShape] = useState("grid");
@@ -22,7 +23,7 @@ const Course = () => {
 
       <section>
         <Container>
-          <div className="my-10 flex justify-between">
+          <div className="my-10 border-2 flex justify-between">
             <h2>Course Showing: {data?.length}</h2>
             <div className="flex items-center gap-3">
               <div className="flex gap-5">
@@ -52,14 +53,20 @@ const Course = () => {
               </select>
             </div>
           </div>
-          <div
-            className={`grid ${
-              dataShape === "grid" ? "grid-cols-3" : "grid-cols-1"
-            } gap-4`}
-          >
-            {data?.map((item) => (
-              <SingleCourse key={item?.couseId} item={item} />
-            ))}
+
+          <div className="grid gap-6 grid-cols-12">
+            <div className="grid border-2 col-span-4">
+              <CourseFilter />
+            </div>
+            <div
+              className={`grid col-span-8 ${
+                dataShape === "grid" ? "grid-cols-3" : "grid-cols-1"
+              } gap-4`}
+            >
+              {data?.map((item) => (
+                <SingleCourse key={item?.couseId} item={item} />
+              ))}
+            </div>
           </div>
         </Container>
       </section>

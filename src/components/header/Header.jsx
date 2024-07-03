@@ -3,12 +3,20 @@ import Container from "../../utils/container/Container";
 import NavItems from "./NavItems";
 import { FaRegUser } from "react-icons/fa";
 import { MdOutlineAddShoppingCart } from "react-icons/md";
+import { useState } from "react";
+import CourseCard from "./CourseCard";
 
 const Header = () => {
+  const [cardIsShow, setCardIsShow] = useState(false);
+
+  const handleCourseCard = () => {
+    setCardIsShow(!cardIsShow);
+  };
+
   return (
     <nav>
       <Container>
-        <div className="navbar bg-base-100">
+        <div className="navbar relative bg-base-100">
           <div className="navbar-start">
             <div className="dropdown">
               <div
@@ -52,7 +60,10 @@ const Header = () => {
                   <FaRegUser />
                 </NavLink>
               </div>
-              <div className="p-3 border-slate-700 border-2 rounded-md">
+              <div
+                onClick={handleCourseCard}
+                className={`p-3 cursor-pointer border-slate-700 border-2 rounded-md`}
+              >
                 <MdOutlineAddShoppingCart />
               </div>
             </div>
@@ -60,6 +71,14 @@ const Header = () => {
             <NavLink to={"/authentication"}>
               <a className="btn">Login</a>
             </NavLink>
+          </div>
+
+          <div
+            className={`absolute ease-in duration-300 z-50 right-4 ${
+              cardIsShow ? "translate-x-[600%]" : "translate-x-[0]"
+            } top-16`}
+          >
+            <CourseCard />
           </div>
         </div>
       </Container>
